@@ -1,0 +1,19 @@
+<html>
+
+<head>
+    <title>Index</title>
+</head>
+
+<body>
+	<header><h1>Curso de HTML</h1></header>
+	<!-- cabeçalho=header. lembrando q o h1 separa melhor-->
+	<nav>  <!-- colocar os links aqui, precisa do "nav" -->
+	    <a href="sobremim.html">SobreMim</a>  
+		<a href="contato.html">Contato</a>
+	</nav>
+	<section>Aqui é o Index.</section> 
+	<!-- colocar um texto qualquer, se bota o section -->
+	<footer></footer>
+</body>
+
+</html>
